@@ -25,6 +25,6 @@ docker run -p 3000:3000 gh-actions-demo
 ```
 
 ## 🔄 GitHub Actions
-Debes configurar en GitHub Secrets:
+Debes configurar en GitHub Secrets las credenciales generadas en Docker Hub:
 - DOCKER_USERNAME
 - DOCKER_PASSWORD
